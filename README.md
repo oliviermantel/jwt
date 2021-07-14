@@ -1,4 +1,4 @@
-# A function to easily recover a token (JSON WEB Token)
+# How to easily recover a token (JSON WEB Token)
 
 ## Install
 ```bash
