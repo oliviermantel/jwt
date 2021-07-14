@@ -29,7 +29,7 @@ __"audience"__ is not mandatory. You can less empty
 ### Creation file ./index.js
   
 ```js
-jwt=require('omantel-jwt')
+const jwt=require('omantel-jwt')
 
 const config = require('./config.json')
 
